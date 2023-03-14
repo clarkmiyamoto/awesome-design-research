@@ -3,6 +3,13 @@
 
 ## Contents
 
+### Coding Tools
+#### JavaScript
+- [p5js](http://p5js.org/) - library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, and educators.
+
+#### Python
+- [Manim](https://github.com/3b1b/manim) / [(Community Edition)](https://github.com/ManimCommunity/manim/) - engine for precise programmatic animations, designed for creating explanatory math videos.
+
 ### Learning
 - *Code as a Creative Medium*, by Golan Levin and Tega Brain, MIT Press, 2021.
   - [Solutions](https://github.com/CodeAsCreativeMedium/exercises) to the book.
