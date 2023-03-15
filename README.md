@@ -28,3 +28,4 @@
 ### Research Platforms
 - [Are.na](https://www.are.na/) - an online software for saving and organizing the content that is important to you. Akin to Tumblr meets Wikipedia.
 - [CARI](https://cari.institute/) - CARI, or Consumer Aesthetics Research Institute, is an online community dedicated to developing a visual lexicon of consumer ephemera from the 1970s until now.
+- [PLAZA](https://www.plaza.computer/) - imagining a new space for creators and the future of visual research, creation, and exchange (economy) within a collective context.
